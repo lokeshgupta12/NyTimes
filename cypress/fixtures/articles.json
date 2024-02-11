@@ -1,0 +1,123 @@
+[
+    {
+        "uri": "nyt://article/11cdaa2f-4d74-55fa-80a8-6704ef869ed0",
+        "url": "https://www.nytimes.com/2024/02/10/us/politics/biden-trump-aging.html",
+        "id": 100000009307201,
+        "asset_id": 100000009307201,
+        "source": "New York Times",
+        "published_date": "2024-02-10",
+        "updated": "2024-02-10 23:28:41",
+        "section": "U.S.",
+        "subsection": "Politics",
+        "nytdsection": "u.s.",
+        "adx_keywords": "United States Politics and Government;Presidential Election of 2024;Trump, Donald J;Biden, Joseph R Jr",
+        "column": null,
+        "byline": "By Rebecca Davis O’Brien",
+        "type": "Article",
+        "title": "Why the Age Issue Is Hurting Biden So Much More Than Trump",
+        "abstract": "Both Donald J. Trump and President Biden are over 75. But voters are much less likely to worry that Mr. Trump is too old to serve.",
+        "des_facet": [
+            "United States Politics and Government",
+            "Presidential Election of 2024"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Trump, Donald J",
+            "Biden, Joseph R Jr"
+        ],
+        "geo_facet": [],
+        "media": [
+            {
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Former President Donald J. Trump during a caucus night watch party at the Treasure Island Hotel and Casino in Las Vegas on Wednesday.",
+                "copyright": "Doug Mills/The New York Times",
+                "approved_for_syndication": 1,
+                "media-metadata": [
+                    {
+                        "url": "https://static01.nyt.com/images/2024/02/10/multimedia/10pol-biden-trump-age-qgpc/10pol-biden-trump-age-qgpc-thumbStandard.jpg",
+                        "format": "Standard Thumbnail",
+                        "height": 75,
+                        "width": 75
+                    },
+                    {
+                        "url": "https://static01.nyt.com/images/2024/02/10/multimedia/10pol-biden-trump-age-qgpc/10pol-biden-trump-age-qgpc-mediumThreeByTwo210.jpg",
+                        "format": "mediumThreeByTwo210",
+                        "height": 140,
+                        "width": 210
+                    },
+                    {
+                        "url": "https://static01.nyt.com/images/2024/02/10/multimedia/10pol-biden-trump-age-qgpc/10pol-biden-trump-age-qgpc-mediumThreeByTwo440.jpg",
+                        "format": "mediumThreeByTwo440",
+                        "height": 293,
+                        "width": 440
+                    }
+                ]
+            }
+        ],
+        "eta_id": 0
+    },
+    {
+        "uri": "nyt://article/9ffaba49-a8fe-5745-a12b-81888c295cb8",
+        "url": "https://www.nytimes.com/2024/02/10/opinion/joe-biden-convention-2024.html",
+        "id": 100000009306123,
+        "asset_id": 100000009306123,
+        "source": "New York Times",
+        "published_date": "2024-02-10",
+        "updated": "2024-02-10 07:00:14",
+        "section": "Opinion",
+        "subsection": "",
+        "nytdsection": "opinion",
+        "adx_keywords": "Presidential Election of 2024;United States Politics and Government;Democratic National Convention;Biden, Joseph R Jr;Harris, Kamala D;Manchin, Joe III;Trump, Donald J;Democratic Party",
+        "column": null,
+        "byline": "By Ross Douthat",
+        "type": "Article",
+        "title": "The Question Is Not If Biden Should Step Aside. It’s How.",
+        "abstract": "Condense the nomination into the format that was originally designed for handling intraparty competition: the Democratic convention.",
+        "des_facet": [
+            "Presidential Election of 2024",
+            "United States Politics and Government",
+            "Democratic National Convention"
+        ],
+        "org_facet": [
+            "Democratic Party"
+        ],
+        "per_facet": [
+            "Biden, Joseph R Jr",
+            "Harris, Kamala D",
+            "Manchin, Joe III",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [],
+        "media": [
+            {
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Damon Winter/The New York Times",
+                "approved_for_syndication": 1,
+                "media-metadata": [
+                    {
+                        "url": "https://static01.nyt.com/images/2024/02/11/multimedia/10douthat1-wvgk/10douthat1-wvgk-thumbStandard.jpg",
+                        "format": "Standard Thumbnail",
+                        "height": 75,
+                        "width": 75
+                    },
+                    {
+                        "url": "https://static01.nyt.com/images/2024/02/11/multimedia/10douthat1-wvgk/10douthat1-wvgk-mediumThreeByTwo210.jpg",
+                        "format": "mediumThreeByTwo210",
+                        "height": 140,
+                        "width": 210
+                    },
+                    {
+                        "url": "https://static01.nyt.com/images/2024/02/11/multimedia/10douthat1-wvgk/10douthat1-wvgk-mediumThreeByTwo440.jpg",
+                        "format": "mediumThreeByTwo440",
+                        "height": 293,
+                        "width": 440
+                    }
+                ]
+            }
+        ],
+        "eta_id": 0
+    }
+]
