@@ -62,12 +62,8 @@ function ArticleList() {
                       <CardMedia
                         sx={{ height: 140 }}
                         image={
-                          article.media[0] &&
-                          article.media[0]['media-metadata'] &&
-                          article.media[0]['media-metadata'][1] &&
-                          article.media[0]['media-metadata'][1].url
-                            ? article.media[0]['media-metadata'][1].url
-                            : constant.DEFAULT_IMG_URL
+                          article?.media?.[0]?.['media-metadata']?.[1]?.url ??
+                          constant.DEFAULT_IMG_URL
                         }
                         title={article.title}
                       />

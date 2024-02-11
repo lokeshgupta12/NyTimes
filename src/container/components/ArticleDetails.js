@@ -25,15 +25,12 @@ function ArticleDetails() {
           <div className="img_container">
             <h4>
               {constant.CAPTION_TEXT}
-              {selectedArticle?.media && selectedArticle?.media[0]?.caption}
+              {selectedArticle?.media?.[0]?.caption}
             </h4>
             <img
               src={
-                selectedArticle?.media &&
-                selectedArticle?.media[0] &&
-                selectedArticle?.media[0]['media-metadata'][2]?.url
-                  ? selectedArticle?.media[0]['media-metadata'][2]?.url
-                  : 'https://via.placeholder.com/140'
+                selectedArticle?.media?.[0]?.['media-metadata']?.[2]?.url ??
+                constant.DEFAULT_IMG_URL
               }
               alt="imgData"
             />
