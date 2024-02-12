@@ -1,4 +1,3 @@
-// src/ArticleList.js
 import { useNavigate } from 'react-router-dom';
 import Box from '@mui/material/Box';
 import Skeleton from '@mui/material/Skeleton';
@@ -24,7 +23,7 @@ function Loader() {
       </Box>
     </div>
   );
-} // Define a simple Loader component
+}
 
 function ArticleList() {
   const { articles, loading, error } = useNYTArticles();

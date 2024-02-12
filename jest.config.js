@@ -1,5 +1,4 @@
 module.exports = {
-    // Jest configuration options
     verbose: true,
     testEnvironment: 'jsdom',
     transform: {
@@ -20,6 +19,5 @@ module.exports = {
     "collectCoverage": true,
     "coverageReporters": ["json", "lcov", "text", "clover"],
     setupFilesAfterEnv: ['@testing-library/jest-dom/extend-expect']
-    // Other configuration options...
   };
   

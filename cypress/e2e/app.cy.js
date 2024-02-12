@@ -5,5 +5,4 @@ describe('App', () => {
       cy.get('.articles-list', { timeout: 4000 }).should('be.visible');
     });
   
-    // Add more test cases as needed
   });

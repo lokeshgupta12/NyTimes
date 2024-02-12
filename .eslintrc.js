@@ -10,17 +10,15 @@ module.exports = {
     ecmaVersion: 'latest',
     sourceType: 'module',
     ecmaFeatures: {
-      jsx: true, // Enable JSX since we're using React
+      jsx: true,
     },
   },
   plugins: ['prettier'],
   ignorePatterns: ['node_modules', 'build', 'dist', 'public'],
   settings: {
     react: {
-      // Tells eslint-plugin-react to automatically detect the version of React to use.
       version: 'detect',
     },
-    // Tells eslint how to resolve imports
     'import/resolver': {
       node: {
         paths: ['src'],
